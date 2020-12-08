@@ -1,7 +1,8 @@
+# RC Strandbeest
 This is the software for my radio controlled motorized strandbeest project ( = dodecapod robot).
 
 
-![front](./img/img500.jpg?raw=true "front")
+![front](./img/img500.JPG?raw=true "front")
 
 ## Links
 - [Youtube video](https://www.youtube.com/watch?v=uVKkW7GO1nU)
