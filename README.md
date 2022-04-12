@@ -7,7 +7,6 @@ This is the software for my radio controlled motorized strandbeest project ( = d
 ## Links
 - [Youtube video](https://www.youtube.com/watch?v=uVKkW7GO1nU)
 - This projet was published on [Hackaday](https://hackaday.com/2016/02/03/motorized-strandbeest-is-remote-controlled-and-awesome/)
-- [HD pictures](https://drive.google.com/drive/u/0/folders/0B2VBAVePxroUekVtNDhNM3pjbk0)
 - Inspired by [Theo Jansen](https://www.strandbeest.com/)
 
 ## Hardware:
